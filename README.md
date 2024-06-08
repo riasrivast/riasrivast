@@ -1,3 +1,4 @@
+Computer Science student at The University of Connecticut!
 - 👋 Hi, I’m @riasrivast
 - 👀 I’m interested in machine learning, AI, and cybersecurity
 - 🌱 I’m currently learning frontend and backend development
